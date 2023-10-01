@@ -1,2 +1,3 @@
 # Study_Buddy
 We are a team here to help engineers. The Engineers who want internship,past year question paper,free courses ,Career guide and many more.
+I have created a project in web development, which primarily focuses on helping engineering students save time and gain efficient knowledge through available resources. The name of the project is 'Study_Buddy.' Within this project, various sections are available, including university previous year papers, internship opportunities, technical/cultural events, free/paid certifications, and career roadmaps. These resources are immensely helpful for students in their studies.
